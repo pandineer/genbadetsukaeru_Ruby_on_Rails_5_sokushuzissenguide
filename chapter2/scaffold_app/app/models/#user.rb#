@@ -1,0 +1,2 @@
+emaclass User < ApplicationRecord
+end
